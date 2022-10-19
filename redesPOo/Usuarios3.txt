@@ -1,0 +1,11 @@
+1;Juan Lopez;30;masculino;Puerto Madryn;
+2;María Suárez;25;femenino;Buenos Aires;
+3;Carolina Lozano;18;femenino;Trelew;
+4;Marcelo Pereira;20;masculino;Puerto Madryn;
+5;Pablo Campos;21;masculino;Buenos Aires;
+6;Martina Ocaña;32;femenino;Trelew;
+7;Angeles Sanz;20;femenino;Jesus Maria;
+8;Agustin Martinez;27;masculino;Bahia Blanca;
+9;Pablo Bruno;23;masculino;Mendoza;
+10;Maria Repetto;24;femenino;Salta;
+

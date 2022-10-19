@@ -1,0 +1,11 @@
+AB100;Juan Lopez;30;masculino;Puerto Madryn;
+BX180;María Suárez;25;femenino;Buenos Aires;
+AS245;Carolina Lozano;18;femenino;Trelew;
+TA982;Marcelo Pereira;20;masculino;Puerto Madryn;
+AE897;Pablo Campos;21;masculino;Buenos Aires;
+EA811;Martina Ocaña;32;femenino;Trelew;
+FA401;Angeles Sanz;20;femenino;Jesus Maria;
+RA817;Agustin Martinez;27;masculino;Bahia Blanca;
+VE711;Pablo Bruno;23;masculino;Mendoza;
+
+

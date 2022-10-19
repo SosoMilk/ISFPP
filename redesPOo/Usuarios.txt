@@ -1,0 +1,11 @@
+A1;Juan;30;masculino;Puerto Madryn;
+A2;María;25;femenino;Buenos Aires;
+A3;Carolina;18;femenino;Trelew;
+A4;Marcelo;20;masculino;Puerto Madryn;
+A5;Pablo;21;masculino;Buenos Aires;
+A6;Martina;32;femenino;Trelew;
+A7;Angeles;20;femenino;Jesus Maria;
+A8;Agustin;27;masculino;Bahia Blanca;
+A9;Pablo;23;masculino;Mendoza;
+A10;Maria;24;femenino;Salta;
+

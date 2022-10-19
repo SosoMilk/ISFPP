@@ -1,0 +1,6 @@
+A5631;Cristian Alvarez;37;M;Puerto Madryn;Postgrado; 
+B9872;Marta Paredes;21;F;Puerto Madryn; Universitaria; 
+C1568;Tomas Effertz;76;M;New Darronview;Abogado; 
+R2908;Kara Corwin;12;F;Metzmouth;Secundario; 
+X4100;Johanna Bechtelar;43;F;North Mathildeberg;Doctorado; 
+Z8577;Loana Aguirre;18;F;Canada;Profesorado;
