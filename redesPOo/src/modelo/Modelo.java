@@ -27,6 +27,7 @@ public class Modelo {
 	 * 
 	 * @param usuarios
 	 * @param relaciones
+	 hola SOfiii
 	 */
 	public Modelo(Map<String, Usuario> usuarios, List<Relacion> relaciones) {
 		this.grafo = new AdjacencyMapGraph<>(false);
